@@ -2,7 +2,7 @@
 
 
 <!-- ### Here are some ideas about me -->
-- 🌱 I'm a **Jr. React JS Developer** at Fairsoft.
+- 🌱 I'm a **Jr. React JS Developer**
 - 📫 My Portfolio: [MD. AZMIR HOSSEN](https://azmir-portfolio.netlify.app/)
 - 💻 Visit: [Blog Website](https://devdesignbiz.com/)
 
