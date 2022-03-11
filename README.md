@@ -2,7 +2,7 @@
 
 
 <!-- ### Here are some ideas about me -->
-- 🌱 I'm a **Jr. React JS Developer**
+- 🌱 I'm a **FRONT-END DEVELOPER(REACT JS)**
 - 📫 My Portfolio: [MD. AZMIR HOSSEN](https://azmir-portfolio.netlify.app/)
 - 💻 Visit: [Blog Website](https://devdesignbiz.com/)
 
