@@ -101,12 +101,13 @@
 3. MERN Stack E-Shopper Server Link: https://github.com/azmir849/E-Saviing
 4. Technologies: React JS, Node JS, Express JS, MongoDB.
 </details>
+
 <details>
-<summary>Creative Agency</summary>
+ <summary>E-Tech Agency</summary>
   
-1. MERN Stack Creative Agencyr Live : https://creative-agency-9d2a4.web.app/
-2. MERN Stack Creative Agencyr Client : https://github.com/azmir849/creative-agency
-3. MERN Stack Creative Agency Server Link: https://github.com/azmir849/creative-agency-server
+1. MERN Stack Creative Agencyr Live : https://e-tech-agency.web.app/
+2. MERN Stack Creative Agencyr Client : https://github.com/azmir849/E-Tech-Agency
+3. MERN Stack Creative Agency Server Link: https://github.com/azmir849/E-Tech-Agency
 4. Technologies: React JS, Node JS, Express JS, MongoDB.
 </details>
 
