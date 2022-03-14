@@ -95,10 +95,11 @@
 ## 📢 MERN Stack Projects
 <details>
 <summary>E-Shopper (E-commerce app)</summary>
-  
-1. MERN Stack E-Shopper Client : https://github.com/azmir849/E-Saviing
-2. MERN Stack E-Shopper Server Link: https://github.com/azmir849/E-Saviing
-3. Technologies: React JS, Node JS, Express JS, MongoDB.
+ 
+1. Live Demo: https://e-shopper-azmir.herokuapp.com/
+2. MERN Stack E-Shopper Client : https://github.com/azmir849/E-Saviing
+3. MERN Stack E-Shopper Server Link: https://github.com/azmir849/E-Saviing
+4. Technologies: React JS, Node JS, Express JS, MongoDB.
 </details>
 <details>
 <summary>Creative Agency</summary>
