@@ -61,7 +61,7 @@
 
 1. Live Demo   : https://ah-virtual-bank.vercel.app/
 2. Technology  : ReactJS,React style components,Responsive,Smooth scroll
-3. Github Repo : https://github.com/azmir849/React-hook-pizza-app
+3. Github Repo : https://github.com/azmir849/ah-virtual-bank
 ![ss](https://github.com/azmir849/ah-virtual-bank/blob/master/src/images/virtual%20bank%20home.png?raw=true)
 </details>
 
