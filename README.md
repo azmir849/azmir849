@@ -95,7 +95,7 @@
 ## 📢 MERN Stack Projects
 <details>
 <summary>E-Shopper (E-commerce app)</summary>
- 
+ N.B: First Run The API: https://e-tech-agency-api.herokuapp.com/
 1. Live Demo: https://e-shopper-azmir.herokuapp.com/
 2. MERN Stack E-Shopper Client : https://github.com/azmir849/E-Saviing
 3. MERN Stack E-Shopper Server Link: https://github.com/azmir849/E-Saviing
