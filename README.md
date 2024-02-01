@@ -147,5 +147,3 @@
 ![ss](https://github.com/azmir849/complete-js/raw/master/all/Only%20Vanila%20JavaScript/Quotes%20generator/images/main.png?raw=true)
 </details>
 
-💻  Visit: [All Vanilla JavaScript Project- GitHub](https://github.com/azmir849/complete-js/tree/master/all)
-💻  Visit: [All Vanilla JavaScript Project- Blog Website](https://devdesignbiz.com/category/javascript)
