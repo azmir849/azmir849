@@ -106,7 +106,7 @@
 </details> -->
 
 
-# Practice Projects
+<!-- # Practice Projects
 ## 📢 MERN Stack Projects
 <details>
 <summary>E-Shopper (E-commerce app)</summary>
@@ -162,4 +162,4 @@
 3. Technology : Vanilla JS
 ![ss](https://github.com/azmir849/complete-js/raw/master/all/Only%20Vanila%20JavaScript/Quotes%20generator/images/main.png?raw=true)
 </details>
-
+ -->
