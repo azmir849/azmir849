@@ -68,7 +68,6 @@ My role was to dynamic these project via Rest API's
 
 ## 📢 React Projects
 
-<details>
 <summary>qrdrive.icircles.app</summary>
 
     Qrdrive/iVault is a cloud Storage system like as googl drive where user can store their media 
@@ -78,10 +77,8 @@ My role was to dynamic these project via Rest API's
 
 My role was to dynamic this project via Restful API's
 
-</details>
 
 
-<details>
 <summary>admin.icircles.app</summary>
 
 1. Live Demo   : https://admin.icircles.app/
@@ -114,9 +111,7 @@ Module i have fully contributed on :
 My role was to dynamic these project via Restful API's
 
 
-</details>
 
-<details>
 <summary>community.icircles.app</summary>
 
 1. Live Demo   : https://community.icircles.app/
@@ -124,7 +119,6 @@ My role was to dynamic these project via Restful API's
 react-paypal-js, bd paystation 
 My role was to dynamic this project via Restful API's
 
-</details>
 
 
 <!-- <details>
