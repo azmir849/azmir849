@@ -81,11 +81,13 @@ My role was to dynamic these project via Rest API's
 My role was to dynamic this project via Restful API's
 
 </details>
+
+
 <details>
 <summary>admin.icircles.app</summary>
 
 1. Live Demo   : https://admin.icircles.app/
-2. Technology  : ReactJS,MUI, Redux tookit
+2. Technology  : ReactJS,MUI, Redux tookit,suneditor-react,react-mui-fileuploader,react-loader-spinner,react-cropper, sweetalert2
 
 Module i have fully contributed on :
 
@@ -113,6 +115,16 @@ Module i have fully contributed on :
 
 My role was to dynamic these project via Restful API's
 
+
+</details>
+
+<details>
+<summary>community.icircles.app</summary>
+
+1. Live Demo   : https://community.icircles.app/
+2. Technology  : ReactJS,MUI, Redux tookit,socket.io-client,react-mui-fileuploader,react-hook-geolocation,html-react-parser,react-stripe-js
+react-paypal-js, bd paystation 
+My role was to dynamic this project via Restful API's
 
 </details>
 
