@@ -49,7 +49,7 @@
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=azmir849&show_icons=true&theme=dark) -->
 
-# 🚀 Projects
+# 🚀 Projects I have Done
 
 ## 📢 SAAS Microsites
 <details>
@@ -62,19 +62,69 @@
 5. Deyall  : https://deyall.com/
 6. Toamed : https://toamed.com/
 
+My role was to dynamic these project via Rest API's
+
+
 </details>
 
 
 ## 📢 React Projects
 
 <details>
+<summary>qrdrive.icircles.app</summary>
+
+    Qrdrive/iVault is a cloud Storage system like as googl drive where user can store their media 
+
+1. Live Demo   : https://qrdrive.icircles.app/
+2. Technology  : ReactJS,MUI, Redux tookit
+
+My role was to dynamic this project via Restful API's
+
+</details>
+<details>
+<summary>https://admin.icircles.app/</summary>
+
+1. Live Demo   : https://admin.icircles.app/
+2. Technology  : ReactJS,MUI, Redux tookit
+
+Module i have fully contributed on :
+
+    i)  SAAS Content managements for Blog sites
+    ii) HR Modules
+        -> Employee managents 
+        -> Employee webcards settings managements
+        -> Attendence 
+        -> Leave Managements
+        -> Work Shift
+        -> Notice Board
+        -> Holiday Calender
+        -> Job managements
+    iii) Ecommerce managements
+    iv) Quize App Content Managements
+    v) Kanban    
+    vi) accounts (on progress)
+    -> items
+    -> order
+    -> bank
+    -> sales
+    -> purchases 
+    -> Accountant
+
+
+My role was to dynamic these project via Restful API's
+
+
+</details>
+
+
+<!-- <details>
 <summary>React Pizza App</summary>
 
 1. Live Demo   : https://react-hook-pizza-app-azmir.vercel.app/
 2. Technology  : ReactJS,React style components,Responsive
 3. Github Repo : https://github.com/azmir849/React-hook-pizza-app
 ![ss](https://github.com/azmir849/React-hook-pizza-app/blob/master/src/images/react-hook-pizza-app.png?raw=true)
-</details>
+</details> -->
 
 
 <!-- <details>
