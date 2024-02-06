@@ -106,6 +106,7 @@
 </details> -->
 
 
+# Practice Projects
 ## 📢 MERN Stack Projects
 <details>
 <summary>E-Shopper (E-commerce app)</summary>
