@@ -73,7 +73,7 @@ My role was to dynamic these project via Rest API's
     Qrdrive/iVault is a cloud Storage system like as googl drive where user can store their media 
 
 1. Live Demo   : https://qrdrive.icircles.app/
-2. Technology  : ReactJS,MUI, Redux tookit
+2. Technology  : ReactJS,MUI, Redux toolkit
 
 My role was to dynamic this project via Restful API's
 
@@ -82,7 +82,7 @@ My role was to dynamic this project via Restful API's
 <summary>admin.icircles.app</summary>
 
 1. Live Demo   : https://admin.icircles.app/
-2. Technology  : ReactJS,MUI, Redux tookit,suneditor-react,react-mui-fileuploader,react-loader-spinner,react-cropper, sweetalert2
+2. Technology  : ReactJS,MUI, Redux toolkit,suneditor-react,react-mui-fileuploader,react-loader-spinner,react-cropper, sweetalert2
 
 Module i have fully contributed on :
 
@@ -115,7 +115,7 @@ My role was to dynamic these project via Restful API's
 <summary>community.icircles.app</summary>
 
 1. Live Demo   : https://community.icircles.app/
-2. Technology  : ReactJS,MUI, Redux tookit,socket.io-client,react-mui-fileuploader,react-hook-geolocation,html-react-parser,react-stripe-js
+2. Technology  : ReactJS,MUI, Redux toolkit,socket.io-client,react-mui-fileuploader,react-hook-geolocation,html-react-parser,react-stripe-js
 react-paypal-js, bd paystation 
 
 
