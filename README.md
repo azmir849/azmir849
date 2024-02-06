@@ -2,7 +2,7 @@
 
 
 <!-- ### Here are some ideas about me -->
-- 🌱 I'm a **FRONT-END DEVELOPER(REACT JS)**
+- 🌱 I'm a **REACT JS** Developer at [https://lemmesaybd.app/](https://lemmesaybd.app/)
 - 📫 My Portfolio: [MD. AZMIR HOSSEN](https://azmir-portfolio.netlify.app/)
 
 
