@@ -66,14 +66,6 @@
 
 
 ## 📢 React Projects
-<details>
-<summary>Virtual Bank</summary>
-
-1. Live Demo   : https://ah-virtual-bank.vercel.app/
-2. Technology  : ReactJS,React style components,Responsive,Smooth scroll
-3. Github Repo : https://github.com/azmir849/ah-virtual-bank
-![ss](https://github.com/azmir849/ah-virtual-bank/blob/master/src/images/virtual%20bank%20home.png?raw=true)
-</details>
 
 <details>
 <summary>React Hook Pizza App</summary>
@@ -84,22 +76,34 @@
 ![ss](https://github.com/azmir849/React-hook-pizza-app/blob/master/src/images/react-hook-pizza-app.png?raw=true)
 </details>
 
-<details>
+
+<!-- <details>
+<summary>Virtual Bank</summary>
+
+1. Live Demo   : https://ah-virtual-bank.vercel.app/
+2. Technology  : ReactJS,React style components,Responsive,Smooth scroll
+3. Github Repo : https://github.com/azmir849/ah-virtual-bank
+![ss](https://github.com/azmir849/ah-virtual-bank/blob/master/src/images/virtual%20bank%20home.png?raw=true)
+</details> -->
+
+
+
+<!-- <details>
 <summary>Fairsoft Landing Page</summary>
 
 1. Live Demo   : http://www.fairsoft.tech/
 2. Technology  : ReactJS,Email Js, AOS Animation,Count up etc..
 ![ss](https://github.com/azmir849/complete-js/blob/master/all/fairsoft%20home%20page.png?raw=true)
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary>BD Travel Agency(Travel Guru9)</summary>
 
 1. Live Demo   : https://travel-guru9-azmir.vercel.app/
 2. Technology  : JavaScript (ES6) , React , React DOM , HTML , CSS , Bootstrap-4 , Firebase .(N.B: Not responsive)
 3. Github Repo : https://github.com/azmir849/travel-guru9
 ![ss](https://github.com/azmir849/travel-guru9/blob/master/src/Image/home%20page%20screenshot.png?raw=true)
-</details>
+</details> -->
 
 
 ## 📢 MERN Stack Projects
