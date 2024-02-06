@@ -104,8 +104,8 @@ My role was to dynamic these project via Restful API's
 <summary>community.icircles.app</summary>
 
 1. Live Demo   : https://community.icircles.app/
-2. Technology  : ReactJS,MUI, Redux toolkit,socket.io-client,react-mui-fileuploader,react-hook-geolocation,html-react-parser,react-stripe-js
-react-paypal-js, bd paystation 
+2. Technology  : ReactJS,MUI, Redux toolkit,socket.io-client,react-mui-fileuploader,react-hook-geolocation,html-react-parser,
+react-stripe-js, react-paypal-js, BD paystation .
 
 
 My role was to dynamic this project via Restful API's
