@@ -82,7 +82,7 @@ My role was to dynamic this project via Restful API's
 
 </details>
 <details>
-<summary>https://admin.icircles.app/</summary>
+<summary>admin.icircles.app</summary>
 
 1. Live Demo   : https://admin.icircles.app/
 2. Technology  : ReactJS,MUI, Redux tookit
