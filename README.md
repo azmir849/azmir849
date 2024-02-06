@@ -61,7 +61,7 @@
 5. Deyall  : https://deyall.com/
 6. Toamed : https://toamed.com/
 
-My role was to dynamic these project via Rest API's
+My role was to dynamic these project via Restful API's
 
 
 
