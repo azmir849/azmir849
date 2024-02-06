@@ -52,7 +52,6 @@
 # 🚀 Projects I have Done
 
 ## 📢 SAAS Microsites
-<details>
 <summary>SAAS Microsites</summary>
 
 1. BMANA   : https://www.bmana.org/
@@ -65,7 +64,6 @@
 My role was to dynamic these project via Rest API's
 
 
-</details>
 
 
 ## 📢 React Projects
