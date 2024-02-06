@@ -57,10 +57,10 @@
 
 1. BMANA   : https://www.bmana.org/
 2. Durer saikel  : https://durersaikel.com/
-3. SeetBD  : https://seetbd.com/
-3. Deyall  : https://deyall.com/
-4. LemmesayBD : https://lemmesaybd.app/
-5. Toamed : https://toamed.com/
+3. LemmesayBD : https://lemmesaybd.app/
+4. SeetBD  : https://seetbd.com/
+5. Deyall  : https://deyall.com/
+6. Toamed : https://toamed.com/
 
 </details>
 
@@ -68,7 +68,7 @@
 ## 📢 React Projects
 
 <details>
-<summary>React Hook Pizza App</summary>
+<summary>React Pizza App</summary>
 
 1. Live Demo   : https://react-hook-pizza-app-azmir.vercel.app/
 2. Technology  : ReactJS,React style components,Responsive
