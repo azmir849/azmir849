@@ -78,7 +78,7 @@ Module i have fully contributed on :
 
     i)  SAAS Content managements for Blog sites
     ii) HR Modules
-        -> Employee managents 
+        -> Employee managements 
         -> Employee webcards settings managements
         -> Attendence 
         -> Leave Managements
@@ -113,7 +113,7 @@ My role was to dynamic this project via Restful API's
 
 <summary>qrdrive.icircles.app</summary>
 
-    Qrdrive/iVault is a cloud Storage system like as googl drive where user can store their media 
+    Qrdrive/iVault is a cloud Storage system like as google drive where user can store their media 
 
 1. Live Demo   : https://qrdrive.icircles.app/
 2. Technology  : ReactJS,MUI, Redux toolkit
