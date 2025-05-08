@@ -4,7 +4,7 @@
 <!-- ### Here are some ideas about me -->
 - 🌱 I'm a **REACT JS** Developer at [https://lyxa.ai/](https://lyxa.ai) Since (August 2024)
 - 📫 My Portfolio: [MD. AZMIR HOSSEN](https://azmir-portfolio.netlify.app/)
-- 📑 My Resume: [Resume](https://drive.google.com/file/d/1-_sqnTaZiXxlIAqGvPllHX7_V5ZvyrRa/view?usp=sharing)
+- 📑 My Resume: [Resume](https://drive.google.com/file/d/1swPKxs_oPfQmriNnLbyPv1SHQtk9SytY/view?usp=sharing)
 
 
 
